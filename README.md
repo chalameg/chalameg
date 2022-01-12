@@ -1,6 +1,7 @@
 - 👋 Hi, I’m chala megersa
 - 👀 I’m interested in website and mobile development, writing scripts
-- 🌱 I’m currently learning and working as Intern
+- 🌱 I’m currently learning and working as Intern and Freelancer
+- Learning Node and React
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 you can reach me using this email: chalamegersa5@gmail.com
 
