@@ -1,4 +1,5 @@
 - 👋 Hi, I’m chala megersa
+- 👀 Fullstack Developer(MERN is my favorite)
 - 👀 I’m interested in website and mobile development, writing scripts
 - 🌱 I’m currently learning and working as Intern and Freelancer
 - ✨ Currently Working with and Learning Node and ReactJs/NextJs
