@@ -4,7 +4,7 @@
 - 🌱 I’m currently working as a full-time full-stack developer and Freelancing part-time
 - ✨ Currently Working with and Learning Node, ReactJs/NextJs, and Spring Boot.
 - 💞️ I’m looking to collaborate on open-source projects and open to offers 
-- 📫 you can reach me using this email: chalamegersa5@gmail.com or https://www.linkedin.com/in/chala-megersa-405109175/
+- 📫 you can reach me using this email: chalamegersa5@gmail.com or https://www.linkedin.com/in/chala-megersa-damesa
 
 <!---
 chalameg/chalameg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
